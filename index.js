@@ -5,3 +5,4 @@ function shout(string) {
 const whisper = string => {
   return string.toLowerCase();
 }
+
